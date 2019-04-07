@@ -2,7 +2,6 @@
 # passed into it and defaults to meat.
 
 
-def meal_choice(meal = "meat")
- puts meal = "vegan"
- puts meal
- end
+def meal_choice( meal="meat" )
+  meal
+end
